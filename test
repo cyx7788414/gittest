@@ -1,4 +1,9 @@
 Git is a version control system.
 fdsfds
 Git is free software.
+<<<<<<< HEAD
 xxxxxxx
+=======
+111111111111111111
+fdsfdsfdsfsfdsfds
+>>>>>>> feature1
